@@ -31,5 +31,6 @@ export class AppComponent {
 
   logImg(event: string) {
     console.log(event);
+    console.log(162, event)
   }
 }
